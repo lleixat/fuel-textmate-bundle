@@ -1,4 +1,4 @@
-# Fuelphp Textmate Bundle
+# Textmate Fuel Bundle
 
 ## Install from GitHub
 
